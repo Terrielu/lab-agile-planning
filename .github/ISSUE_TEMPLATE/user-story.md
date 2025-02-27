@@ -1,23 +1,14 @@
----
-name: User Story
-about: 'This template is for user stories '
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Как** [роль]  
- **Мне нужно** [функция]  
- **Чтобы** [выгода]  
+ **As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
- ### Подробности и предположения
- * [документируйте, что вы знаете]
+ ### Details and Assumptions
+ * [document what you know]
    
- ### Критерии приемки  
+ ### Acceptance Criteria  
    
  ```gherkin
- Учитывая [некоторый контекст]
- Когда [определенное действие выполнено]
- Тогда [результат действия наблюдается]
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
